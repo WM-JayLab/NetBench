@@ -29,21 +29,20 @@ Our Benchmark Dataset are collected from the following sources:
 
 If you use our benchmark, please cite the following paper.
 ```
-@misc{wang2024lens,
+@article{wang2024lens,
   title={Lens: A Foundation Model for Network Traffic in Cybersecurity},
-  author={Qineng Wang and Chen Qian and Xiaochang Li and Ziyu Yao and Huajie Shao},
-  year={2024},
-  eprint={2402.03646},
-  archivePrefix={arXiv},
-  primaryClass={cs.LG}
+  author={Wang, Qineng and Qian, Chen and Li, Xiaochang and Yao, Ziyu and Shao, Huajie},
+  journal={arXiv e-prints},
+  pages={arXiv--2402},
+  year={2024}
 }
 ```
 ```
-@misc{qian2024netbench,
+@inproceedings{qian2024netbench,
   title={NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models}, 
   author={Chen Qian and Xiaochang Li and Qineng Wang and Gang Zhou and Huajie Shao},
-  year={2024},
-  booktitle={International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things (FMSys)},
-  organization={IEEE}
+  booktitle={International Workshop on Foundation Models for Cyber-Physical Systems \& Internet of Things (FMSys)},
+  organization={IEEE},
+  year={2024}
 }
 ```
