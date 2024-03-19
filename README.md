@@ -43,8 +43,7 @@ If you use our benchmark, please cite the following paper.
   title={NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models}, 
   author={Chen Qian and Xiaochang Li and Qineng Wang and Gang Zhou and Huajie Shao},
   year={2024},
-  eprint={2403.10319},
-  archivePrefix={arXiv},
-  primaryClass={cs.NI}
+  booktitle={International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things (FMSys)},
+  organization={IEEE}
 }
 ```
